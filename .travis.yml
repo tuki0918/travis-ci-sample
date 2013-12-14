@@ -7,4 +7,4 @@ php:
   - hhvm
 
 script:
-  - phpunit --coverage-text
+  - phpunit --coverage-text test
