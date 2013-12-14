@@ -10,4 +10,4 @@ before_install:
   - composer install
 
 script:
-  - phpunit --coverage-text test
+  - phpunit --colors --coverage-text test
